@@ -16,7 +16,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rajeshsola/node-red-addons/node-red-contrib-canbus"
+    "url": "git+https://github.com/steviethecat/node-red-addons/node-red-contrib-canbus"
   },
   "homepage": "https://github.com/rajeshsola/node-red-addons/wiki",
   "keywords": [
